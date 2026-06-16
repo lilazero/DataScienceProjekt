@@ -6,6 +6,6 @@ seaborn==0.12.2
 mysql-connector-python==8.0.33
 python-dotenv==1.0.0
 tensorflow==2.13.0
-keras==2.13.0
+keras==3.13.2
 jupyter==1.0.0
 ipython==8.14.0
