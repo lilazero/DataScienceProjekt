@@ -1,7 +1,171 @@
-.ipynb_checkpoints/
-__pycache__/
-*.pyc
+# ============================================================================
+# Sensitive / Local Configuration
+# ============================================================================
+# Database credentials and local configuration - NEVER commit these!
+src/config.py
+
+# Environment variables
 .env
+.env.local
+.env.*.local
+
+# ============================================================================
+# Python
+# ============================================================================
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*-checkpoint.ipynb
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Virtual environments
 venv/
-.venv/
-db_credentials.py
+ENV/
+env/
+.venv
+
+# ============================================================================
+# IDE / Editor
+# ============================================================================
+# VSCode
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Vim
+.vim/
+*.swp
+*.swo
+*~
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+# ============================================================================
+# OS
+# ============================================================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+.directory
+
+# ============================================================================
+# Local / Temporary Files
+# ============================================================================
+*.log
+*.tmp
+*.bak
+*.backup
+*.swp
+*.swo
+
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/cache/
+
+# Jupyter
+.jupyter/
+
+# ============================================================================
+# Data Files (Optional - uncomment if you want to exclude large datasets)
+# ============================================================================
+# data/*.csv
+# data/*.xlsx
+# *.parquet
+
+# ============================================================================
+# IDE-Generated Files
+# ============================================================================
+.vscode/settings.json
+.vscode/extensions.json
+
+# ============================================================================
+# OS-Specific
+# ============================================================================
+.Spotlight-V100
+.Trashes
+
+# ============================================================================
+# Project-Specific (if needed)
+# ============================================================================
+# Local database backups
+*.db
+*.sqlite
+*.sqlite3
+
+# Local model/checkpoint files (optional)
+# models/local_*.pkl
+# checkpoints/
+
+# Temporary research/experiment files
+experiments/
+scratch/

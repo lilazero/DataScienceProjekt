@@ -1,0 +1,5 @@
+Modell,CV R² (Mittelwert),CV R² (Std.abw.),Test R²,Test MAE (Lakhs),Test RMSE (Lakhs)
+Gradient Boosting,0.667,0.0415,0.6106,28.7394,72.5929
+Random Forest,0.665,0.0239,0.6105,27.9958,72.6021
+Ridge-Regression,0.5951,0.0605,0.5299,32.4869,79.7654
+Lineare Regression,0.5948,0.0609,0.5294,32.5969,79.8024

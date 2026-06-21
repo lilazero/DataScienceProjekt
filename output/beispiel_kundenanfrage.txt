@@ -1,0 +1,31 @@
+Von: Anil Kumar <test.kunde@beispiel-mail.invalid>
+An: info@yay-studios-real-estate.invalid
+Betreff: Preisanfrage fuer Immobilie in Whitefield
+Datum: 19.06.2026, 09:42 Uhr
+
+Sehr geehrtes Team,
+
+ich interessiere mich fuer eine Immobilie und wuerde gerne eine
+Preiseinschaetzung erhalten. Die Eckdaten sind wie folgt:
+
+  - Lage: Whitefield
+  - Flaechenart: Plot  Area
+  - Wohnflaeche: 1500 sqft
+  - Zimmeranzahl (BHK): 2
+  - Anzahl Badezimmer: 2
+  - Anzahl Balkone: 1
+
+Koennten Sie mir bitte mitteilen, mit welchem ungefaehren Kaufpreis ich fuer
+eine solche Immobilie rechnen muesste?
+
+Vielen Dank im Voraus fuer Ihre Rueckmeldung.
+
+Mit freundlichen Gruessen
+Anil Kumar
+
+
+---
+HINWEIS: Dies ist eine simulierte Test-E-Mail mit frei erfundenen Daten.
+Es handelt sich nicht um eine echte Kundenanfrage und es wurden keine
+echten Personen- oder Kundendaten verwendet (siehe Datenschutz-Hinweis
+in der Projektdokumentation).
