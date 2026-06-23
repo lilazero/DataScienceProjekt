@@ -3,6 +3,7 @@
 # ============================================================================
 # Database credentials and local configuration - NEVER commit these!
 src/config.py
+output/
 
 # Environment variables
 .env
